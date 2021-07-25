@@ -1,7 +1,6 @@
 import discord
 import asyncio
 import tictactoe
-# import os only if environment variable is used
 
 client = discord.Client()
 
@@ -152,5 +151,4 @@ async def on_message(message):
 
        
 # Just add a Token for your app in here
-# Token = os.environ['TOKEN'] OR Token = "TOKEN_GOES_HERE"
 # client.run(Token)
