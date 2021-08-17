@@ -3,7 +3,7 @@
 
 ## **How to use:**
 * Clone this repository
-* Obtain authentication token for you app. [Refer here](https://www.writebots.com/discord-bot-token/)
+* Obtain authentication token for your app. [Refer here](https://www.writebots.com/discord-bot-token/)
 * Go to main.py and uncomment the last line and add your token there.
 * Navigate to the directory of the repository in terminal
 * Execute the activate script from env/Scripts
